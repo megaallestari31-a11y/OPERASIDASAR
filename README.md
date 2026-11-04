@@ -1,0 +1,2 @@
+# OPERASIDASAR
+Insert,Delete,Update
