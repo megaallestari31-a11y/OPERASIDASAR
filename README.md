@@ -18,15 +18,15 @@ Berikut adalah tangkapan layar dari masing-masing operasi yang dijalankan menggu
 
 ### 1. Operasi Insert (Penyisipan)
 Menambahkan elemen baru (`25`) pada posisi indeks ke-2[cite: 3].
-![GAMBAR1(2)](GAMBAR1(2))
+![INSERT.png](INSERT.png)
 
 ### 2. Operasi Delete (Penghapusan)
 Menghapus elemen yang berada pada posisi indeks ke-2[cite: 2].
-![GAMBAR2(2)](GAMBAR2(2))
+![HAPUS.png](HAPUS.png)
 
 ### 3. Operasi Update (Pembaruan)
 Mengubah nilai pada indeks tertentu dengan nilai baru (`99`)[cite: 1].
-![GAMBAR3(2)](GAMBAR3(2)
+![README.png](README.png)
 
 ---
 
