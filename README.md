@@ -22,11 +22,11 @@ Menambahkan elemen baru (`25`) pada posisi indeks ke-2[cite: 3].
 
 ### 2. Operasi Delete (Penghapusan)
 Menghapus elemen yang berada pada posisi indeks ke-2[cite: 2].
-![HAPUS.png](HAPUS.png)
+![DELETE.png](DELETE.png)
 
 ### 3. Operasi Update (Pembaruan)
 Mengubah nilai pada indeks tertentu dengan nilai baru (`99`)[cite: 1].
-![README.png](README.png)
+![UPDATE.png](UPDATE.png)
 
 ---
 
